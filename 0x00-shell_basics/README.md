@@ -1,6 +1,9 @@
-#Welcome
+# Welcome
+
 In this file you are going to find all the scripts related to the  '0x00. Shell, basics' project
-##Here are some brief descriptions about each script :
+
+## Here are some brief descriptions about each script :
+
 0. **Where am I?**
   - this script prints the absolute path name of the  current working directory 
 1. **What’s in there?**
