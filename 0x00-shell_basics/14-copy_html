@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -n `find -name \*.html*` . .. 
+cp -v ./*.html ../
